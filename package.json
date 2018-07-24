@@ -1,0 +1,28 @@
+{
+  "name": "gulp-temp",
+  "version": "1.0.0",
+  "description": "StartGulpPackage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlienAmigo/GulpTemp.git"
+  },
+  "author": "Peter Ryzhov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlienAmigo/GulpTemp/issues"
+  },
+  "homepage": "https://github.com/AlienAmigo/GulpTemp#readme",
+  "devDependencies": {
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-sass": "^4.0.1"
+  },
+  "dependencies": {
+    "graceful-fs": "^4.1.11",
+    "gulp-util": "^3.0.8",
+    "minimatch": "^3.0.4"
+  }
+}
