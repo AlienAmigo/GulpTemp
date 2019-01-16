@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/AlienAmigo/GulpTemp#readme",
   "devDependencies": {
-    "browser-sync": "^2.24.6",
+    "browser-sync": "^2.26.3",
     "gulp": "github:gulpjs/gulp#4.0",
     "gulp-sass": "^4.0.1"
   },
@@ -25,6 +25,7 @@
     "graceful-fs": "^4.1.11",
     "gulp-util": "^3.0.8",
     "hoek": "^5.0.3",
-    "minimatch": "^3.0.4"
+    "minimatch": "^3.0.4",
+    "scss": "^0.2.4"
   }
 }
